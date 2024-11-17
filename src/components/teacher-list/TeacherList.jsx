@@ -4,19 +4,19 @@ import Profile from "../../assets/profile.jpg"
 const teachers = [
     {
         image: Profile,
-        name: 'Prof. Jhone Doe',
+        name: 'Prof. Yousef Gheibi',
         duration: '20 hours lesson',
         cost: '100',
     },
     {
         image: Profile,
-        name: 'Prof. Jhone Doe',
+        name: 'Prof. Yousef Gheibi',
         duration: '20 hours lesson',
         cost: '100',
     },
     {
         image: Profile,
-        name: 'Prof. Jhone Doe',
+        name: 'Prof. Yousef Gheibi',
         duration: '20 hours lesson',
         cost: '100',
     }
