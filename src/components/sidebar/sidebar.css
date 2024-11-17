@@ -37,7 +37,8 @@
     color: #27374d;
 }
 
-.menu--list .item:hover {
+.menu--list .item:hover , .menu--list .item.active {
     background: #27374d;
     color: #dde6ed;
 }
+
